@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ip-address-app/static/css/main.5541c211.css",
+    "main.js": "/ip-address-app/static/js/main.ecbb2d85.js",
+    "static/js/787.9c37a4e4.chunk.js": "/ip-address-app/static/js/787.9c37a4e4.chunk.js",
+    "static/media/background.jpg": "/ip-address-app/static/media/background.969fababe4992168e3d7.jpg",
+    "index.html": "/ip-address-app/index.html",
+    "static/media/icon-arrow.svg": "/ip-address-app/static/media/icon-arrow.2eaaa5ee3602d5aa14a2.svg",
+    "main.5541c211.css.map": "/ip-address-app/static/css/main.5541c211.css.map",
+    "main.ecbb2d85.js.map": "/ip-address-app/static/js/main.ecbb2d85.js.map",
+    "787.9c37a4e4.chunk.js.map": "/ip-address-app/static/js/787.9c37a4e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5541c211.css",
+    "static/js/main.ecbb2d85.js"
+  ]
+}
